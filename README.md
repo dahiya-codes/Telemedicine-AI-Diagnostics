@@ -10,7 +10,7 @@ To get this project running locally, follow these steps:
  **Clone the Repository:**
    ```bash
    git clone [https://github.com/dahiya-codes/Telemedicine-AI-Diagnostics.git](https://github.com/dahiya-codes/Telemedicine-AI-Diagnostics.git)
-   cd Telemedicine-AI-Diagnostics
+  cd Telemedicine-AI-Diagnostics
    
 **System Architecture & Approach**
 Multi-Agent Orchestration: Uses a specialized "Crew" of agents (defined in crew.py) to handle clinical data parsing and diagnostic validation.
